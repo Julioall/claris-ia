@@ -1,1 +1,0 @@
-import{aI as e,t as r}from"./index-nNbrwTSU.js";function a(o){return e(o,Date.now())}function c(o){const t=r(o),n=t.getMonth();return t.setFullYear(t.getFullYear(),n+1,0),t.setHours(23,59,59,999),t}export{a as c,c as e};
