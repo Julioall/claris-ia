@@ -1,0 +1,1 @@
+import{j as t}from"./index-CGBvTuOO.js";function e(){return t.jsx("div",{className:"animate-fade-in",children:t.jsx("h1",{className:"text-2xl font-bold tracking-tight",children:"Automacoes"})})}export{e as default};
