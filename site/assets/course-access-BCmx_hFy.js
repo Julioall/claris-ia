@@ -1,1 +1,0 @@
-import{s as a}from"./index-DKiys_X0.js";async function c(e,t){const{data:i,error:r}=await a.rpc("list_accessible_course_ids",{p_user_id:e,p_role_filter:t});if(r)throw r;return(i??[]).map(s=>s.course_id).filter(s=>typeof s=="string"&&s.length>0)}export{c as l};
