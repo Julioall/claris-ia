@@ -3,7 +3,7 @@
 Este repositorio publico recebe somente o build estatico da aplicacao.
 
 - Os arquivos publicados ficam em `site/`.
-- Repositorio fonte privado: `Julioall/claris` @ `8b2f6427815e154434b9d2f6c5e1e0c481299744`
+- Repositorio fonte privado: `Julioall/claris` @ `101016bbf8e8bff5a46228dfa0f360fbda766a2c`
 - O codigo-fonte, migrations e logica sensivel permanecem no repositorio privado e nas Edge Functions.
 - Alteracoes manuais neste repositorio podem ser sobrescritas no proximo deploy.
 
