@@ -1,0 +1,1 @@
+import{a as o}from"./index-DGnARwh0.js";import{u}from"./useCoursesCatalogQuery-DWuU2k2J.js";function i(){const{user:e}=o(),r=u(e?.id);return{courses:(r.data??[]).filter(s=>s.is_following),isLoading:r.isLoading,error:r.error?.message??null,refetch:r.refetch}}export{i as u};
