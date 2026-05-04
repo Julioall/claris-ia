@@ -1,0 +1,1 @@
+import{w as r}from"./index-BqILFH7Z.js";import{l as o}from"./courses.repository-BiNnAeEu.js";import{c as s}from"./query-keys-DwT3cpBp.js";function l(e){return r({queryKey:s.catalog(e),enabled:!!e,queryFn:()=>o(e),staleTime:5*6e4})}export{l as u};
